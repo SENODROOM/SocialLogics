@@ -5,3 +5,8 @@ client/build/
 .env
 *.log
 .DS_Store
+
+
+/.txtconfig
+/.txtignore
+/SocialLogics.txt
